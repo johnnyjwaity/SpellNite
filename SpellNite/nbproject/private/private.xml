@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/spellnite/PlayerController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>75</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SpellNite/src/Shaders/TerrainShader.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/Loader.java</file>
+            <file>file:/E:/SpellNite/src/GUI/GuiRenderer.java</file>
+            <file>file:/E:/SpellNite/src/Skyboxes/SkyboxShader.java</file>
+            <file>file:/E:/SpellNite/src/Textures/TerrainTexture.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/SpellNite.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/CollisionManager.java</file>
+            <file>file:/E:/SpellNite/src/Network/Listener.java</file>
+            <file>file:/E:/SpellNite/src/Shaders/ShaderProgram.java</file>
+            <file>file:/E:/SpellNite/src/Network/Communication.java</file>
+            <file>file:/E:/SpellNite/src/Skyboxes/SkyboxRenderer.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/Helpers.java</file>
+            <file>file:/E:/SpellNite/src/Terrains/Terrain.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/DisplayManager.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/AttachableScript.java</file>
+            <file>file:/E:/SpellNite/src/Textures/TerrainTexturePack.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/Game.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/FXMLDocumentController.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/EntityRenderer.java</file>
+            <file>file:/E:/SpellNite/src/ToolBox/Maths.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/FXMLDocument.fxml</file>
+            <file>file:/E:/SpellNite/src/ParticleSystems/ParticleSystem.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/MasterRenderer.java</file>
+            <file>file:/E:/SpellNite/src/res/heightmap.png</file>
+            <file>file:/E:/SpellNite/src/Shaders/StaticShader.java</file>
+            <file>file:/E:/SpellNite/src/ParticleSystems/SmokeController.java</file>
+            <file>file:/E:/SpellNite/src/Entities/Entity.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/FireballController.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/Collideable.java</file>
+            <file>file:/E:/SpellNite/src/spellnite/PlayerController.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/TerrainRenderer.java</file>
+            <file>file:/E:/SpellNite/src/Textures/TextureData.java</file>
+            <file>file:/E:/SpellNite/src/Textures/ModelTexture.java</file>
+            <file>file:/E:/SpellNite/src/RenderEngine/OBJLoader.java</file>
+            <file>file:/E:/SpellNite/src/Entities/Camera.java</file>
+        </group>
+    </open-files>
+</project-private>
